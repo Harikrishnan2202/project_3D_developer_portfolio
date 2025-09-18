@@ -72,7 +72,7 @@ const About = () => {
         to create impactful solutions 🚀.
         <br />
         <a
-          href="https://drive.google.com/file/d/1ht91gdPYyqX9nQHLYZPHltRv_rzbq3b6/view?usp=drivesdk"
+          href="https://drive.google.com/file/d/1nbiVKkOvnfCdnOp9-1ePrEAe-rtH19aA/view?usp=drivesdk"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block mt-6 px-8 py-3 rounded-xl bg-gradient-to-r from-pink-500 to-purple-600 text-white font-bold shadow-lg hover:shadow-pink-500/50 hover:scale-105 transition-transform duration-300 animate-pulse"
