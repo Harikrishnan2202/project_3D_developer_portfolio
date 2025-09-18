@@ -42,7 +42,7 @@ import Internship from "./company/Internship.png";
 import Certificate from "./company/Certificate.png"; 
 
 import AISummarizer from "./AISummarizer.jpeg";
-import Digitrecognizer from "./Digitrecognizer.png";
+import Digitrecognizer from "./DigitRecognizer.png";
 import Ewebsite from "./Ewebsite.png";
 import SpeedDetection from "./SpeedDetection.png";
 import Pedestrian from "./Pedestrian.png";
